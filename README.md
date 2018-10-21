@@ -46,4 +46,4 @@ git push -u origin your_branch_name
 |------------------|-----------------------------|
 |Isala Piyarisi|mrsupiri|
 |Bulith Hansaja|Bulith|
-and that's the end of that bulshit..
+and that's the end of that bullshit..
